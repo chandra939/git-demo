@@ -8,6 +8,19 @@ public class GitCmdPrompt {
 	public void git() {
 		System.out.println("hi");
 		System.out.println("hello");
+		//fd
+		System.out.println("hi");
+		System.out.println("hello");
 	}
+	
+	@Test
+	public void github() {
+		System.out.println("hi");
+		System.out.println("hello");
+		//fd
+		System.out.println("both");
+		System.out.println("welcome");
+	}
+	
 
 }
