@@ -29,6 +29,14 @@ public class GitCmdPrompt {
 		System.out.println("both");
 		System.out.println("welcome");
 	}
+	@Test
+	public void git_hub_asian_branch() {
+		System.out.println("hi");
+		System.out.println("hello");
+		//fd
+		System.out.println("both");
+		System.out.println("welcome");
+	}
 	
 
 }
